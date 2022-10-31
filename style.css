@@ -1,0 +1,23 @@
+body {
+    background-color: #E3E4E4;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 82px;
+    color: #3D3D3D;
+}
+
+
+
+.grid {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    margin: auto;
+    background-color: white;
+}
